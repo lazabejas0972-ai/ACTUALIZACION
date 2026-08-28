@@ -2,3 +2,4 @@ Nombre:    Juan Carlos Condori Geronimo
 Carrera:   Ingenieria Informatica
 Semestre:  II/2026
 Materia:   Actualizacion Tecnologica
+Materias cursando: 6 Materias
